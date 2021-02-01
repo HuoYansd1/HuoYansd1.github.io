@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+## 火焰安全
+###我的联系方式
+- QQ：3128259053
+- E-mail：huhaoxuanx@126.com或者qq3128259053@yeah.net
 
-You can use the [editor on GitHub](https://github.com/HuoYansd1/HuoYansd1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+###开发产品
+- 火焰终端防护[国内版]（支持Sever和普通电脑）：暂无正式版地址
+- 火焰终端防护[国际版]【已开源在GitHub】（支持Sever和普通电脑）：暂无正式版地址
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###技术支持
+- 没有，没有就是没有~但是可以通过上面的联系方式联系我
+- 客服QQ：663059078
 
-### Markdown
+###熟悉语言
+- C#
+- C++
+- Python
+- Java
+- Html
+- （最多使用）中华编程语言——易语言（eyuyan）
+- 中华编程语言——习语言（Xiyuyan）
+- VB
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###喜欢用的杀毒软件（不分先后）
+- 火绒（个人）
+- 腾讯管家（个人）
+- 百度杀毒（已倒闭）
+- 360安全卫士（调教过后的）
+- 360杀毒（配合火绒弹窗拦截）
+- 金山毒霸（开vip吧）
+- 天融信（个人）
+- 天融信EDR（企业）
+- 腾讯yu点（企业）
+- 360天擎（企业）
+- 深信服EDR（企业）
+- 卡巴斯基（个人）
 
-```markdown
-Syntax highlighted code block
+###病毒解毒
+- 666病毒解毒
+- FRS勒索解毒
+- FBI勒索解毒
+- WannaCry比特币病毒读内存解毒
+- Petya比特币硬盘锁解密
+- LaoTao勒索解毒
+- XiaoBa勒索解毒
 
-# Header 1
-## Header 2
-### Header 3
+##加入我们
+###要求
+- 必须会C++、Python、中华编程语言——易语言（eyuyan），并且严格遵守公司制度
+- 年龄10-35岁
+- 可分配的岗位：前段工程师、后台工程师、组长（都要加班的！！！没有工资！！）
 
-- Bulleted
-- List
+###友情链接
+- 百度 baidu.com
+- 360安全 360.cn
+- 腾讯管家个人版 guanjia.qq.com
+- wps wps.cn
+- 大白菜pe winbaicai.com
+- 微pe wepe.cn
+-Firpe firpe.cn
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HuoYansd1/HuoYansd1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+2012-2021 安全
